@@ -3,6 +3,10 @@
 This project is a simple **anime recommendation app** built with Python and Tkinter.  
 It uses an `anime.csv` dataset and a small recommendation "AI" (filter + ranking) to suggest anime and show their **banner image** from the web.
 
+### Screenshot
+
+![Anime Recommender Screenshot](screenshot.png)
+
 ### Features
 
 - **Filter by genres** (multiple selection from a list).
